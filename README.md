@@ -80,5 +80,4 @@ streamlit run riyadh_apartments_analysis.py
 - تم استخدام Plotly للرسوم البيانية عالية الجودة
 
 ---
-تم إنشاء التطبيق بواسطة: Claude Assistant
-التاريخ: 2026
+
